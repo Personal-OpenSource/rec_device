@@ -10,6 +10,6 @@ if $OFOX;
         export LC_ALL='C'
         export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
         export FOX_VERSION=R11.1_1
-        export FOX_VARIANT=A12
-        export OF_MAINTAINER='dimasyudha'
+        export FOX_VARIANT=A13
+        export OF_MAINTAINER='GitHub'
 fi
