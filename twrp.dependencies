@@ -1,8 +1,8 @@
 [
     {
-        "remote": "https://github.com/fsdimasyudha",
-        "repository": "android_kernel_xiaomi_sirius",
-        "branch": "lineage-20",
+        "remote": "https://github.com/YinCQL",
+        "repository": "kernel_xiaomi",
+        "branch": "common",
         "target_path": "kernel/xiaomi/sirius"
     }
 ]
