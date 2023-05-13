@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+LOCAL_PATH := device/xiaomi/sirius
+
 # Decryption
 PRODUCT_PACKAGES_ENG += \
     qcom_decrypt \
