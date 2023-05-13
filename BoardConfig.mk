@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+DEVICE_PATH := device/xiaomi/sirius
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
